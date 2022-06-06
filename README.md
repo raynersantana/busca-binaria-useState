@@ -1,2 +1,4 @@
 # busca-binaria-useState
-Created with CodeSandbox
+Olá,
+
+Este repositório foi utilizado para aprender como funcionam os Hooks no React!
